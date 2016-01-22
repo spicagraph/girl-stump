@@ -2,8 +2,10 @@
 
 LINEスタンプ「ゆるボブガール＆うさぎ」のpngデータです。  
 スライドや資料作りなどに使用ください。
+
 一覧）http://spicagraph.github.io/girl-stump/
 販売）http://line.me/S/sticker/1039005
+
 * 1200px*1038px 
 * 背景透過
 
